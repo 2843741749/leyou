@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/../leyou-pojo/pom.xml" />
         <option value="$PROJECT_DIR$/../leyou-goods2/pom.xml" />
         <option value="$PROJECT_DIR$/../leyou-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../leyou-cart/pom.xml" />
       </list>
     </option>
   </component>
